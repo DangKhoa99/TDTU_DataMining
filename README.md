@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Khai thác dữ liệu và Khai phá tri thức</h1>
-  <h1>Data Mining and Knowledge Mining</h1>
+  <h1>Khai thác dữ liệu và Khai phá tri thức <br> Data Mining and Knowledge Mining</h1>
 </div>
 
 ## Languages and technologies
